@@ -128,27 +128,7 @@ MONGODB_URI=your_mongodb_connection_string
 
 ---
 
-## Screenshots
 
-Add screenshots of:
-
-* Login Page
-* Dashboard
-* Attendance Page
-* Student Management
-* Reports Section
-
-Example:
-
-```
-screenshots/
-├── login.png
-├── dashboard.png
-├── attendance.png
-└── reports.png
-```
-
----
 
 ## Future Enhancements
 
